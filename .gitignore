@@ -1,4 +1,3 @@
-lambda/
 iam-policy.json
 iam-policy.tf
 iam-role.tf
