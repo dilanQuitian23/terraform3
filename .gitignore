@@ -1,3 +1,4 @@
-/iam-policy.json 
-/iam-policy.tf
-/iam-role.tf
+iam-policy.json 
+iam-policy.tf
+iam-role.tf
+lambda_funtion3.zip
